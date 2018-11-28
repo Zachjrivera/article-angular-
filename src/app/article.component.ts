@@ -102,4 +102,3 @@ export class ArticleComponent implements OnInit {
 	  this.processValidation = false;
    }
 }
-    
